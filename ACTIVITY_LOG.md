@@ -6,3 +6,4 @@
 - [2025-03-05] feat: add new jailbreak attack patterns to safety suite
 - [2025-03-06] fix: resolve Phoenix tracing connection timeout
 - [2025-03-08] feat: add new jailbreak attack patterns to safety suite
+- [2025-03-11] fix: handle OpenAI API rate limiting gracefully
