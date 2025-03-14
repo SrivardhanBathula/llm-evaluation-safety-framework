@@ -8,3 +8,4 @@
 - [2025-03-08] feat: add new jailbreak attack patterns to safety suite
 - [2025-03-11] fix: handle OpenAI API rate limiting gracefully
 - [2025-03-12] feat: add model comparison leaderboard output
+- [2025-03-14] fix: handle OpenAI API rate limiting gracefully
