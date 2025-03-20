@@ -12,3 +12,4 @@
 - [2025-03-14] test: add safety evaluation integration tests
 - [2025-03-17] fix: handle OpenAI API rate limiting gracefully
 - [2025-03-18] fix: resolve Phoenix tracing connection timeout
+- [2025-03-20] refactor: optimize batch evaluation throughput
