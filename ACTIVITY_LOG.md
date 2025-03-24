@@ -14,3 +14,4 @@
 - [2025-03-18] fix: resolve Phoenix tracing connection timeout
 - [2025-03-20] refactor: optimize batch evaluation throughput
 - [2025-03-20] fix: correct faithfulness score normalization
+- [2025-03-24] docs: add CI/CD integration guide to README
