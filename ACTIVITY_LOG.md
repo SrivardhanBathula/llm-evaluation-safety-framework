@@ -17,3 +17,4 @@
 - [2025-03-24] docs: add CI/CD integration guide to README
 - [2025-03-24] refactor: optimize batch evaluation throughput
 - [2025-03-25] feat: add new jailbreak attack patterns to safety suite
+- [2025-03-25] refactor: improve prompt injection detection logic
