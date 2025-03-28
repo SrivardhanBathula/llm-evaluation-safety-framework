@@ -18,3 +18,4 @@
 - [2025-03-24] refactor: optimize batch evaluation throughput
 - [2025-03-25] feat: add new jailbreak attack patterns to safety suite
 - [2025-03-25] refactor: improve prompt injection detection logic
+- [2025-03-28] feat: add model comparison leaderboard output
