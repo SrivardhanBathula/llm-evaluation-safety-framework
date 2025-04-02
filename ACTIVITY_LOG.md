@@ -21,3 +21,4 @@
 - [2025-03-28] feat: add model comparison leaderboard output
 - [2025-03-31] feat: add new jailbreak attack patterns to safety suite
 - [2025-03-31] feat: add model comparison leaderboard output
+- [2025-04-02] fix: resolve Phoenix tracing connection timeout
