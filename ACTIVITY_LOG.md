@@ -24,3 +24,4 @@
 - [2025-04-02] fix: resolve Phoenix tracing connection timeout
 - [2025-04-07] fix: handle OpenAI API rate limiting gracefully
 - [2025-04-08] refactor: improve prompt injection detection logic
+- [2025-04-12] test: add regression tests for judge scoring
