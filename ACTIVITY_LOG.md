@@ -26,3 +26,4 @@
 - [2025-04-08] refactor: improve prompt injection detection logic
 - [2025-04-12] test: add regression tests for judge scoring
 - [2025-04-12] refactor: improve hallucination judge prompt accuracy
+- [2025-04-15] fix: bias auditor demographic parity calculation fix
