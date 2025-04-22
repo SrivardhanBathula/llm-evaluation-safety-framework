@@ -28,3 +28,4 @@
 - [2025-04-12] refactor: improve hallucination judge prompt accuracy
 - [2025-04-15] fix: bias auditor demographic parity calculation fix
 - [2025-04-17] test: add regression tests for judge scoring
+- [2025-04-22] fix: handle OpenAI API rate limiting gracefully
