@@ -30,3 +30,4 @@
 - [2025-04-17] test: add regression tests for judge scoring
 - [2025-04-22] fix: handle OpenAI API rate limiting gracefully
 - [2025-04-23] fix: resolve Phoenix tracing connection timeout
+- [2025-04-23] fix: bias auditor demographic parity calculation fix
