@@ -31,3 +31,4 @@
 - [2025-04-22] fix: handle OpenAI API rate limiting gracefully
 - [2025-04-23] fix: resolve Phoenix tracing connection timeout
 - [2025-04-23] fix: bias auditor demographic parity calculation fix
+- [2025-04-24] fix: correct faithfulness score normalization
