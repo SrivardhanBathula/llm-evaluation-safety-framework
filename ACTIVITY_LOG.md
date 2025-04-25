@@ -33,3 +33,4 @@
 - [2025-04-23] fix: bias auditor demographic parity calculation fix
 - [2025-04-24] fix: correct faithfulness score normalization
 - [2025-04-24] docs: add CI/CD integration guide to README
+- [2025-04-25] fix: handle OpenAI API rate limiting gracefully
