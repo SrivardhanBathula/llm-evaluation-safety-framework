@@ -30,3 +30,4 @@
 - [2025-04-22] refactor: improve hallucination judge prompt accuracy
 - [2025-04-24] refactor: improve prompt injection detection logic
 - [2025-04-24] refactor: optimize batch evaluation throughput
+- [2025-04-26] fix: correct faithfulness score normalization
