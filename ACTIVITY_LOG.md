@@ -32,3 +32,4 @@
 - [2025-04-24] refactor: optimize batch evaluation throughput
 - [2025-04-26] fix: correct faithfulness score normalization
 - [2025-04-29] fix: handle OpenAI API rate limiting gracefully
+- [2025-04-29] chore: add GitHub Actions eval pipeline
