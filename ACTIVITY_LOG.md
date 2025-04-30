@@ -34,3 +34,4 @@
 - [2025-04-29] fix: handle OpenAI API rate limiting gracefully
 - [2025-04-29] chore: add GitHub Actions eval pipeline
 - [2025-04-30] refactor: improve hallucination judge prompt accuracy
+- [2025-04-30] fix: resolve Phoenix tracing connection timeout
