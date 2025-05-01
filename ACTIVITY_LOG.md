@@ -35,3 +35,4 @@
 - [2025-04-29] chore: add GitHub Actions eval pipeline
 - [2025-04-30] refactor: improve hallucination judge prompt accuracy
 - [2025-04-30] fix: resolve Phoenix tracing connection timeout
+- [2025-05-01] feat: add new jailbreak attack patterns to safety suite
