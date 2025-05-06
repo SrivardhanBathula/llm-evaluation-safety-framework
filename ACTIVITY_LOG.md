@@ -37,3 +37,4 @@
 - [2025-04-30] fix: resolve Phoenix tracing connection timeout
 - [2025-05-01] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-02] chore: update DeepEval to latest version
+- [2025-05-06] chore: add GitHub Actions eval pipeline
