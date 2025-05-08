@@ -44,3 +44,4 @@
 - [2025-05-06] fix: correct faithfulness score normalization
 - [2025-05-07] feat: add model comparison leaderboard output
 - [2025-05-08] feat: add new jailbreak attack patterns to safety suite
+- [2025-05-08] feat: add model comparison leaderboard output
