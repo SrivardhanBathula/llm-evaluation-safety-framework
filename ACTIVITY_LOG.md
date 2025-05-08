@@ -38,3 +38,4 @@
 - [2025-05-01] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-02] chore: update DeepEval to latest version
 - [2025-05-06] chore: add GitHub Actions eval pipeline
+- [2025-05-08] refactor: improve prompt injection detection logic
