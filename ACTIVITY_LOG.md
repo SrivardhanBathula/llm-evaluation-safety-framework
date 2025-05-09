@@ -39,3 +39,4 @@
 - [2025-05-02] chore: update DeepEval to latest version
 - [2025-05-06] chore: add GitHub Actions eval pipeline
 - [2025-05-08] refactor: improve prompt injection detection logic
+- [2025-05-09] chore: add GitHub Actions eval pipeline
