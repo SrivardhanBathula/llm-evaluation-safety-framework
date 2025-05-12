@@ -46,3 +46,4 @@
 - [2025-05-08] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-08] feat: add model comparison leaderboard output
 - [2025-05-09] test: add safety evaluation integration tests
+- [2025-05-12] feat: add new jailbreak attack patterns to safety suite
