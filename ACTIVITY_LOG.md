@@ -48,3 +48,4 @@
 - [2025-05-09] test: add safety evaluation integration tests
 - [2025-05-12] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-14] refactor: improve prompt injection detection logic
+- [2025-05-14] feat: add new jailbreak attack patterns to safety suite
