@@ -45,3 +45,4 @@
 - [2025-05-13] feat: add model comparison leaderboard output
 - [2025-05-14] test: add safety evaluation integration tests
 - [2025-05-16] fix: correct faithfulness score normalization
+- [2025-05-16] refactor: improve prompt injection detection logic
