@@ -46,3 +46,4 @@
 - [2025-05-14] test: add safety evaluation integration tests
 - [2025-05-16] fix: correct faithfulness score normalization
 - [2025-05-16] refactor: improve prompt injection detection logic
+- [2025-05-19] feat: add new jailbreak attack patterns to safety suite
