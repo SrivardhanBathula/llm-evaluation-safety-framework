@@ -51,3 +51,4 @@
 - [2025-05-14] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-15] refactor: optimize batch evaluation throughput
 - [2025-05-16] refactor: improve hallucination judge prompt accuracy
+- [2025-05-22] fix: handle OpenAI API rate limiting gracefully
