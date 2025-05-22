@@ -52,3 +52,4 @@
 - [2025-05-15] refactor: optimize batch evaluation throughput
 - [2025-05-16] refactor: improve hallucination judge prompt accuracy
 - [2025-05-22] fix: handle OpenAI API rate limiting gracefully
+- [2025-05-22] refactor: improve hallucination judge prompt accuracy
