@@ -56,3 +56,4 @@
 - [2025-05-23] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-23] test: add safety evaluation integration tests
 - [2025-05-26] fix: bias auditor demographic parity calculation fix
+- [2025-05-26] refactor: improve prompt injection detection logic
