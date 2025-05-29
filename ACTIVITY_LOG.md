@@ -58,3 +58,4 @@
 - [2025-05-26] fix: bias auditor demographic parity calculation fix
 - [2025-05-26] refactor: improve prompt injection detection logic
 - [2025-05-27] refactor: improve prompt injection detection logic
+- [2025-05-29] refactor: optimize batch evaluation throughput
