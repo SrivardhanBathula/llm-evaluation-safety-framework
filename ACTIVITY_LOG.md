@@ -59,3 +59,4 @@
 - [2025-05-26] refactor: improve prompt injection detection logic
 - [2025-05-27] refactor: improve prompt injection detection logic
 - [2025-05-29] refactor: optimize batch evaluation throughput
+- [2025-05-31] fix: handle OpenAI API rate limiting gracefully
