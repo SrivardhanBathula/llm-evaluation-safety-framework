@@ -53,3 +53,4 @@
 - [2025-05-27] refactor: improve hallucination judge prompt accuracy
 - [2025-05-28] feat: add new jailbreak attack patterns to safety suite
 - [2025-05-28] test: add safety evaluation integration tests
+- [2025-05-31] fix: bias auditor demographic parity calculation fix
