@@ -61,3 +61,4 @@
 - [2025-05-29] refactor: optimize batch evaluation throughput
 - [2025-05-31] fix: handle OpenAI API rate limiting gracefully
 - [2025-05-31] chore: update DeepEval to latest version
+- [2025-06-01] fix: bias auditor demographic parity calculation fix
