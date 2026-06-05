@@ -6,3 +6,4 @@
 - [2025-05-26] feat: add model comparison leaderboard output
 - [2025-05-28] docs: update safety evaluation methodology docs
 - [2025-05-29] refactor: improve hallucination judge prompt accuracy
+- [2025-05-31] docs: update safety evaluation methodology docs
