@@ -4,3 +4,4 @@
 - [2025-05-21] chore: add GitHub Actions eval pipeline
 - [2025-05-24] refactor: improve report generation HTML template
 - [2025-05-26] feat: add model comparison leaderboard output
+- [2025-05-28] docs: update safety evaluation methodology docs
